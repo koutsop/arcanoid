@@ -1,0 +1,1 @@
+A not-so-simple replication for the widely know game Arcanoid. This will be in C++ and it will be developed using Microsof's Visual Studio
